@@ -1,0 +1,21 @@
+.about {
+  font-size: 1.75em;
+}
+.aboutTop {
+  background-image: url("../assets/burgers.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 50vh;
+}
+.aboutBottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50vh;
+}
+
+@media only screen and (max-width: 900px) {
+  .about {
+    font-size: 0.75em;
+  }
+}

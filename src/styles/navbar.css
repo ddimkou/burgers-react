@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #121619;
+}
+.leftside img {
+  height: 4em;
+  width: 4em;
+  margin-left: 0.3em;
+}
+.rightside {
+  margin-right: 0.3em;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0.75em;
+  font-size: 1.5em;
+}
+@media only screen and (max-width: 900px) {
+  .navbar a {
+    font-size: 0.75em;
+  }
+
+  .leftside img {
+    height: 3em;
+    width: 3em;
+    margin-left: 0.3em;
+  }
+}

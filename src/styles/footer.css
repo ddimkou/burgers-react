@@ -1,0 +1,14 @@
+.footer {
+  min-width: 100%;
+  min-height: 5rem;
+  background-color: #121619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.footer p {
+  color: #f1f1f1;
+}
