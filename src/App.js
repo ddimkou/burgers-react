@@ -14,10 +14,22 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/menu" element={<Menu />} />
+          <Route
+            path="https://ddimkou.github.io/burgers-react/"
+            element={<Home />}
+          />
+          <Route
+            path="https://ddimkou.github.io/burgers-react/contact"
+            element={<Contact />}
+          />
+          <Route
+            path="https://ddimkou.github.io/burgers-react/about"
+            element={<About />}
+          />
+          <Route
+            path="https://ddimkou.github.io/burgers-react/menu"
+            element={<Menu />}
+          />
           <Route path="/*" element={<PgNotFound />} />
         </Routes>
         <Footer />
