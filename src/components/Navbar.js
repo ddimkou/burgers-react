@@ -9,10 +9,12 @@ const Navbar = () => {
         <img src={Logo} alt="burger-logo" />
       </div>
       <div className="rightside">
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/menu">Menu</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="https://ddimkou.github.io/burgers-react/">Home</Link>
+        <Link to="https://ddimkou.github.io/burgers-react/about">About</Link>
+        <Link to="https://ddimkou.github.io/burgers-react/menu">Menu</Link>
+        <Link to="https://ddimkou.github.io/burgers-react/contact">
+          Contact
+        </Link>
       </div>
     </div>
   );
