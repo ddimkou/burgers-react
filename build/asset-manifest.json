@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/burgers-react/static/css/main.a22a6817.css",
+    "main.js": "/burgers-react/static/js/main.1f5a0d57.js",
+    "static/media/header.jpg": "/burgers-react/static/media/header.a41930bb5aa2084fd5d5.jpg",
+    "static/media/stack-burger.jpg": "/burgers-react/static/media/stack-burger.c131417fcde8f9346592.jpg",
+    "static/media/logo.png": "/burgers-react/static/media/logo.68faaff7157f11a95cc5.png",
+    "static/media/burgers.jpg": "/burgers-react/static/media/burgers.b4c9573d802c10d1de28.jpg",
+    "static/media/provoloneburger.jpg": "/burgers-react/static/media/provoloneburger.5031fc21a3931f8dd60e.jpg",
+    "static/media/hangover.jpg": "/burgers-react/static/media/hangover.c36d6f7f655ac3b78d16.jpg",
+    "static/media/blueburger.jpg": "/burgers-react/static/media/blueburger.4cb0bef8e8b87b86cb49.jpg",
+    "static/media/cheeseburger.jpg": "/burgers-react/static/media/cheeseburger.383df782a0af401e8469.jpg",
+    "static/media/mexicanburger.jpg": "/burgers-react/static/media/mexicanburger.57a120266f401fd4e4b9.jpg",
+    "static/media/bbqburger.jpg": "/burgers-react/static/media/bbqburger.baed43d2b13efb7b3c73.jpg",
+    "index.html": "/burgers-react/index.html",
+    "main.a22a6817.css.map": "/burgers-react/static/css/main.a22a6817.css.map",
+    "main.1f5a0d57.js.map": "/burgers-react/static/js/main.1f5a0d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a22a6817.css",
+    "static/js/main.1f5a0d57.js"
+  ]
+}
